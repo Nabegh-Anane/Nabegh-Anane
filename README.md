@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nabegh-Anane
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning Bachelor's degree in business intelligence
+- 💞️ I’m looking to collaborate on datascience projects
