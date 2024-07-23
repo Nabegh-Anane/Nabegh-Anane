@@ -1,6 +1,6 @@
 # Nabegh Anane
 
-[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?style=flat&logo=github)](https://github.com/nabeghanane)
+[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?style=flat&logo=github)](https://github.com/Nabegh-Anane)
 
 ## 🌟 About Me
 
@@ -84,5 +84,5 @@ I am Nabegh Anane, a passionate Business Intelligence graduate specializing in d
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabeghanane) or check out my [GitHub projects](https://github.com/nabeghanane). Let's create something amazing together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabegh-anane/) or check out my [Portfolio](https://nabeghanane.com/). Let's create something amazing together!
 
