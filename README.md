@@ -31,7 +31,7 @@ I am Nabegh Anane, a passionate Business Intelligence graduate specializing in d
 
 ## 🏢 Professional Experience
 
-- **DIGIBRAIN AGENCY** | Feb 2024 – Jun 2024
+- **DIGIBRAIN AGENCY** | Feb 2024 – Present
   - Implemented an analytical system for Connect Content using Microsoft Azure and Fabric services, web scraping, and CI/CD automation.
   
 - **Express médical Transport assistance (EMTA)** | Jul 2023 – Aug 2023
